@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://blackgold.sa/wp-content/uploads/2018/02/2560x1440-blue-abstract-noise-free-website-background-image.jpg?w=640");
+    url("http://localhost:3000");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://blackgold.sa/wp-content/uploads/2018/02/2560x1440-blue-abstract-noise-free-website-background-image.jpg?w=640") center center fixed;
+    url("http://localhost:3000") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("https://blackgold.sa/wp-content/uploads/2018/02/2560x1440-blue-abstract-noise-free-website-background-image.jpg?w=640") !important;
+      url("http://localhost:3000") !important;
   }
 }
